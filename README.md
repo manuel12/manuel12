@@ -2,9 +2,9 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👨‍💻 About Me :
 
-I'm a Full-Stack and Test Developer specializing in web applications using Django for the backend, React for the frontend and Cypress for testing.
+I'm a Full-Stack and Test Developer specializing in web applications using Python/Django for the backend, JS/React for the frontend and JS/Cypress for testing.
 
 ---
 
@@ -23,10 +23,13 @@ I'm a Full-Stack and Test Developer specializing in web applications using Djang
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="Heroku" width="40" height="40"/>
-  
-
-
 </div>
+
+
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel12&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
