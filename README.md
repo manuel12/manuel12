@@ -31,21 +31,21 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
 
 ### 💻: Important Projects :
 
-#### Expense Tracker:
+#### [Expense Tracker:](https://github.com/manuel12/django-expense-tracker-public)
 
 <div float="left">
   <img src="https://user-images.githubusercontent.com/4129325/221216267-0067eb7d-3be7-4771-a621-92907c10105a.png" title="Expense Tracker Desktop" alt="Expense Tracker Desktop" width="650" height="357" style="display: inline"/>
    <img src="https://user-images.githubusercontent.com/4129325/221216763-897b1481-2626-4b24-ab2c-ce424d24a51f.png" title="Expense Tracker Mobile" alt="Expense Tracker Mobile" width="165" height="357"/>
 </div>
 
-#### Motivation Vault:
+#### [Motivation Vault:](https://github.com/manuel12/motivation-vault)
 
 <div float="left">
   <img src="https://user-images.githubusercontent.com/4129325/221205796-109b3a7a-a102-46f0-b4f2-3711a883b5fe.png" title="Motivation Vault Desktop" alt="Motivation Vault Desktop" width="650" height="357" style="display: inline"/>
   <img src="https://user-images.githubusercontent.com/4129325/221207023-de613790-db09-4513-ae9e-ba893a575d54.png" title="Motivation Vault Mobile" alt="Motivation Vault Mobile" width="165" height="357"/>
 </div>
 
-#### Media Ratings:
+#### [Media Ratings:](https://github.com/manuel12/media-ratings)
 
 <div float="left">
   <img src="https://user-images.githubusercontent.com/4129325/221217865-d51a9f01-a1d1-438b-86b0-d85acd3d4351.png" title="Media Ratings Desktop" alt="Media Ratings Desktop" width="650" height="357" style="display: inline"/>
