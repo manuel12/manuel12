@@ -1,5 +1,6 @@
 ### 👨‍💻 About Me :
 
+
 I'm a Full-Stack and Test Developer specializing in web applications using Python/Django for the backend, JS/React for the frontend and JS/Cypress for testing.
 
 ---
@@ -29,7 +30,7 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
 
 ---
 
-### 💻: Important Projects :
+### 💻 Important Projects :
 
 #### [Expense Tracker:](https://github.com/manuel12/django-expense-tracker-public)
 
@@ -51,6 +52,10 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
   <img src="https://user-images.githubusercontent.com/4129325/221217865-d51a9f01-a1d1-438b-86b0-d85acd3d4351.png" title="Media Ratings Desktop" alt="Media Ratings Desktop" width="650" height="357" style="display: inline"/>
   <img src="https://user-images.githubusercontent.com/4129325/221218084-5a6c65e6-b6de-41ef-96c4-41aa04b1cd82.png" title="Media Ratings Mobile" alt="Media Ratings Mobile" width="165" height="357"/>
 </div>
+
+
+### 🧑‍🔧 Other Projects 
+[![CSS Landing Page](https://img.shields.io/badge/CSS%20Landing%20Page-gray?style=plastic&logo=CSS3&logoColor=blue&link=https://manuel12.github.io/landing-page/)](https://manuel12.github.io/landing-page/)
 
 
 
