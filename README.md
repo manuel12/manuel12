@@ -54,7 +54,7 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
 </div>
 
 
-### 🧑‍🔧 Other Projects 
+### 🧑‍🔧 Other Projects:
 [![CSS Landing Page](https://img.shields.io/badge/CSS%20Landing%20Page-gray?style=plastic&logo=CSS3&logoColor=blue&link=https://manuel12.github.io/landing-page/)](https://manuel12.github.io/landing-page/)
 
 
