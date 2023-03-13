@@ -14,6 +14,7 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="MUI" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/4129325/221191364-90ec4583-f906-43f6-969b-bac956846fbd.svg" title="Cypress" alt="Cypress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -55,7 +56,8 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
 
 
 ### 🧑‍🔧 Other Projects:
-[![CSS Landing Page](https://img.shields.io/badge/CSS%20Landing%20Page-gray?style=plastic&logo=CSS3&logoColor=blue&link=https://manuel12.github.io/landing-page/)](https://manuel12.github.io/landing-page/)
+[![CSS Landing Page](https://img.shields.io/badge/CSS%20Landing%20Page-gray?style=plastic&logo=CSS3&logoColor=orange&link=https://manuel12.github.io/landing-page/)](https://manuel12.github.io/landing-page/)
+[![MUI Landing Page](https://img.shields.io/badge/MUI%20Landing%20Page-757575?style=plastic&logo=MUI&link=https://manuel12.github.io/mui-landing-page/)](https://manuel12.github.io/mui-landing-page/)
 
 
 
