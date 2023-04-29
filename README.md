@@ -1,6 +1,5 @@
 ### 👨‍💻 About Me :
 
-
 I'm a Full-Stack and Test Developer specializing in web applications using Python/Django for the backend, JS/React for the frontend and JS/Cypress for testing.
 
 ---
@@ -85,6 +84,7 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
 [![CSS Landing Page](https://img.shields.io/badge/CSS%20Landing%20Page-757575?style=plastic&logo=CSS3&logoColor=orange&link=https://manuel12.github.io/landing-page/)](https://manuel12.github.io/landing-page/)
 [![CSS Custom Library](https://img.shields.io/badge/CSS%20Custom%20Library-757575?style=plastic&logo=CSS3&logoColor=orange&link=https://manuel12.github.io/custom-css-library/)](https://manuel12.github.io/custom-css-library/)
 
+![](https://komarev.com/ghpvc/?username=manuel12&color=brightgreen)
 
 <!--
 **manuel12/manuel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
