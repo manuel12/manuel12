@@ -2,6 +2,7 @@
 
 I'm a Full-Stack and Test Developer specializing in web applications using Python/Django for the backend, JS/React for the frontend and JS/Cypress for testing.
 
+### Check out my [Portfolio Page](https://manuel12.github.io/personal-portfolio-page).
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
