@@ -26,9 +26,10 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
 ---
 
 ### :fire: My Stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel12&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=manuel12&count_private=true&theme=tokyonight&showicons=true)
 ---
 
 ### 💻 Important Projects :
