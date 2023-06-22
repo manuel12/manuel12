@@ -84,7 +84,7 @@ I'm a Full-Stack and Test Developer specializing in web applications using Pytho
 ### 🧑‍🔧 Other Projects:
 [![MUI Landing Page](https://img.shields.io/badge/MUI%20Landing%20Page-757575?style=plastic&logo=MUI&link=https://manuel12.github.io/mui-landing-page/)](https://manuel12.github.io/mui-landing-page/)
 [![CSS Landing Page](https://img.shields.io/badge/CSS%20Landing%20Page-757575?style=plastic&logo=CSS3&logoColor=orange&link=https://manuel12.github.io/landing-page/)](https://manuel12.github.io/landing-page/)
-[![CSS Custom Library](https://img.shields.io/badge/CSS%20Custom%20Library-757575?style=plastic&logo=CSS3&logoColor=orange&link=https://manuel12.github.io/custom-css-library/)](https://manuel12.github.io/custom-css-library/)
+[![FluenCSS Library](https://img.shields.io/badge/CSS%20Custom%20Library-757575?style=plastic&logo=CSS3&logoColor=orange&link=https://manuel12.github.io/fluent-css/)](https://manuel12.github.io/fluent-css/)
 
 ![](https://komarev.com/ghpvc/?username=manuel12&color=brightgreen)
 
