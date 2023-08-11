@@ -1,6 +1,12 @@
 ### 👨‍💻 About Me :
 
-I'm a Full-Stack and Test Developer specializing in web applications using Python/Django for the backend, JS/React for the frontend and JS/Cypress for testing.
+Hello, my name is Manuel. I've had 10 years of experience in the QA/Test automation field.
+
+I've also been learning and creating Full-Stack Web Development projects on my free time. These projects include not only Front-end and Back-end, but are also supplemented with my extensive Test Automation knowledge. 
+
+For these projects I've generally used JS/Cypress(Automated tests), JS/React(Front-end) and Python/Django(Back-end). 
+
+Other things I like to do in my free time is contributing on opensource projects (also in web dev and test automation) and pursue certifications.
 
 ### Check out my [Portfolio Page](https://manuel12.github.io/personal-portfolio-page).
 ---
