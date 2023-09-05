@@ -1,12 +1,12 @@
 ### 👨‍💻 About Me :
 
-Hello, my name is Manuel. I've had 10 years of experience in the QA/Test automation field.
+Hello, I’m a QA Engineer with 10 years of experience in the QA and Test Automation field.
 
-I've also been learning and creating Full-Stack Web Development projects on my free time. These projects include not only Front-end and Back-end, but are also supplemented with my extensive Test Automation knowledge. 
+I believe understanding software from end-to-end is key to testing it effectively.
 
-For these projects I've generally used JS/Cypress(Automated tests), JS/React(Front-end) and Python/Django(Back-end). 
+This is why I’ve been learning and creating Full-Stack Web Development projects in my free time. These projects include Front-end and Back-end, but are also supplemented with my extensive Test Automation knowledge. 
 
-Other things I like to do in my free time is contributing on opensource projects (also in web dev and test automation) and pursue certifications.
+For my current QA Engineer role I mostly use JS/Cypress, and for my personal projects I’ve generally used JS/Cypress(Automated tests), JS/React(Front-end) and Python/Django(Back-end). 
 
 ### Check out my [Portfolio Page](https://manuel12.github.io/personal-portfolio-page).
 ---
