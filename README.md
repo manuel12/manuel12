@@ -9,7 +9,7 @@ This is why I’ve been learning and creating Full-Stack Web Development project
 For my current QA Engineer role I mostly use JS/Cypress, and for my personal projects I’ve generally used JS/Cypress(Automated tests), JS/React(Front-end) and Python/Django(Back-end). 
 
 
-### Check out my [Portfolio Page](https://manuel12.github.io/personal-portfolio-page).
+### [Check out my Portfolio Page](https://manuel12.github.io/personal-portfolio-page).
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
