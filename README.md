@@ -19,9 +19,10 @@ For my current QA Engineer role I mostly use JS/Cypress, and for my personal pro
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="MUI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/4129325/221191364-90ec4583-f906-43f6-969b-bac956846fbd.svg" title="Cypress" alt="Cypress" width="40" height="40"/>
@@ -42,6 +43,21 @@ For my current QA Engineer role I mostly use JS/Cypress, and for my personal pro
 ---
 
 ### 💻 Important Projects :
+
+#### [Productivity App:](https://github.com/manuel12/productivity-app)
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/4129325/221191364-90ec4583-f906-43f6-969b-bac956846fbd.svg" title="Cypress" alt="Cypress" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+ 
+<div float="left">
+  <img src="https://camo.githubusercontent.com/94e67aa6bd5082a7d3c08d3f4fa15e80837dcdd583e5444718ee21ed95c7a5e7/68747470733a2f2f6d616e75656c31322e6769746875622e696f2f706572736f6e616c2d706f7274666f6c696f2d706167652f696d616765732f70726f6475637469766974792d6170702f6465736b746f70496d6167652e706e67" title="Productivity App Desktop" alt="Productivity App Desktop" width="650" height="357" style="display: inline"/>
+   <img src="https://camo.githubusercontent.com/77ffdb2e302d8f81e505e96e7f8727a0a84b3640eed026513e961d6d4391c33a/68747470733a2f2f6d616e75656c31322e6769746875622e696f2f706572736f6e616c2d706f7274666f6c696f2d706167652f696d616765732f70726f6475637469766974792d6170702f6d6f62696c65496d6167652e706e67" title="Productivity App Mobile" alt="Productivity App Mobile" width="165" height="357"/>
+</div>
 
 #### [Expense Tracker:](https://github.com/manuel12/django-expense-tracker)
 
@@ -81,8 +97,8 @@ For my current QA Engineer role I mostly use JS/Cypress, and for my personal pro
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/4129325/221191364-90ec4583-f906-43f6-969b-bac956846fbd.svg" title="Cypress" alt="Cypress" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 
 <div float="left">
   <img src="https://user-images.githubusercontent.com/4129325/221217865-d51a9f01-a1d1-438b-86b0-d85acd3d4351.png" title="Series Ratings Desktop" alt="Series Ratings Desktop" width="650" height="357" style="display: inline"/>
