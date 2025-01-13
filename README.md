@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me :
 
-Hello, I’m a QA Engineer with 10 years of experience in the QA and Test Automation field.
+Hello, I’m a QA Engineer with over 10 years of experience in the QA and Test Automation field.
 
 I believe understanding software from end-to-end is key to testing it effectively.
 
