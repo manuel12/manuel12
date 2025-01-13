@@ -55,8 +55,8 @@ For my current QA Engineer role I mostly use JS/Cypress, and for my personal pro
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
  
 <div float="left">
-  <img src="https://camo.githubusercontent.com/94e67aa6bd5082a7d3c08d3f4fa15e80837dcdd583e5444718ee21ed95c7a5e7/68747470733a2f2f6d616e75656c31322e6769746875622e696f2f706572736f6e616c2d706f7274666f6c696f2d706167652f696d616765732f70726f6475637469766974792d6170702f6465736b746f70496d6167652e706e67" title="Productivity App Desktop" alt="Productivity App Desktop" width="650" height="357" style="display: inline"/>
-   <img src="https://camo.githubusercontent.com/77ffdb2e302d8f81e505e96e7f8727a0a84b3640eed026513e961d6d4391c33a/68747470733a2f2f6d616e75656c31322e6769746875622e696f2f706572736f6e616c2d706f7274666f6c696f2d706167652f696d616765732f70726f6475637469766974792d6170702f6d6f62696c65496d6167652e706e67" title="Productivity App Mobile" alt="Productivity App Mobile" width="165" height="357"/>
+  <img src="https://manuel12.github.io/personal-portfolio-page/images/productivity-app/desktopImage.png" title="Productivity App Desktop" alt="Productivity App Desktop" width="650" height="357" style="display: inline"/>
+   <img src="https://manuel12.github.io/personal-portfolio-page/images/productivity-app/mobileImage.png" title="Productivity App Mobile" alt="Productivity App Mobile" width="165" height="357"/>
 </div>
 
 #### [Expense Tracker:](https://github.com/manuel12/django-expense-tracker)
